@@ -1,3 +1,8 @@
+name="atari7800_games_covers 39,8 MB  " 
+url="https://archive.org/download/atari7800_games_covers/atari7800_games_covers.zip"
+img="https://img.utdstc.com/icons/256/psx-emulator-.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" big thanks to TEAM ZT for the packs"
 
 name="sony Play station artwork package  3.8GB "   
 url="https://archive.org/download/handheldsartwork/SonyPsp.zip"
