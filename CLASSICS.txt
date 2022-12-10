@@ -1,0 +1,167 @@
+
+name="ATARI CLASSIC 18 mb   "   
+url="https://archive.org/download/arcade_classics-art/Atari%20Classics.zip"
+img="http://orig14.deviantart.net/52fd/f/2013/236/2/1/atari_vcs_2600_icon___png_xcf_by_anarkhya-d2yexyi.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" big thanks to TEAM ZT for the packs "
+
+name="atari 7800 games and covers 40mb "   
+url="https://archive.org/download/atari7800_games_covers/atari7800_games_covers.zip"
+img="http://www.atomicfe.com/ladite/Images/a7800.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" big thanks to TEAM ZT for the packs "
+
+name="Mame  games and covers 1,6 gb   "   
+url="https://archive.org/download/arcade_artwork/Mame.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" Mame games including the needed artwork have fun and join RetromaniacUS were everything is Free "
+
+name="nintendo virtualboy 38mb  "   
+url="https://archive.org/download/handheldsartwork/NintendoVirtualBoy.zip"
+img="https://cdn02.nintendo-europe.com/media/images/migration/iwata/interview_content/ia_3ds_volume1_content05.jpg"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" nintendo virtualboy pack  have fun and join RetromaniacUS were everything is Free "
+
+name="CAPCOM CLASSIC   "   
+url="https://archive.org/download/arcade_classics-art/Capcom%20Classics.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name=" DATA EAST  "   
+url="https://archive.org/download/arcade_classics-art/Data%20East%20Classics.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name="IREN CLASSIC  "   
+url="https://archive.org/download/arcade_classics-art/Irem%20Classics.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name=" KONAMI CLASSIC  "   
+url="https://archive.org/download/arcade_classics-art/Konami%20Classics.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name="MIDWAY CLASSIC 2  "   
+url="https://archive.org/download/arcade_classics-art/Midway%20Classics%202.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name=" MIDWAY CLASSIC  "   
+url="https://archive.org/download/arcade_classics-art/Midway%20Classics.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name="NAMANCO CLASSIC  "   
+url="https://archive.org/download/arcade_classics-art/Namco%20Classics.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name=" NINTENDO CASSIC  "   
+url="https://archive.org/download/arcade_classics-art/Nintendo%20Classics.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name="SNK CLASSIC  "   
+url="https://archive.org/download/arcade_classics-art/SNK%20Classics.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name=" SEGA CLASSIC  "   
+url="https://archive.org/download/arcade_classics-art/Sega%20Classics.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name="WILLIAMS "   
+url="https://archive.org/download/arcade_classics-art/Williams%20Classics.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+
+name="TAITO "   
+url="https://archive.org/download/arcade_classics-art/Taito%20Classics.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name="CAPCOM SISTEM  "   
+url="https://archive.org/download/arcade_artwork/CapcomPlaySystem.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+
+name="CAPCOM SISTEM 1  "   
+url="https://archive.org/download/arcade_artwork/CapcomPlaySystemIi.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name="CAPCOM SISTEM 2 "   
+url="https://archive.org/download/arcade_artwork/CapcomPlaySystemIii.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+
+name="CAVE "   
+url="https://archive.org/download/arcade_artwork/Cave.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name="FINALBUEN  "   
+url="https://archive.org/download/arcade_artwork/FinalBurnAlpha.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+
+name="MAME  "   
+url="https://archive.org/download/arcade_artwork/Mame.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name="PACMAN  "   
+url="https://archive.org/download/arcade_artwork/PacMAME.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+
+name="SEGAST"   
+url="https://archive.org/download/arcade_artwork/SegaSt-v.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+name="SEGASISTEM16 "   
+url="https://archive.org/download/arcade_artwork/SegaSystem16.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+
+name="SEGASISTEM24"   
+url="https://archive.org/download/arcade_artwork/SegaSystem24.zip"
+img="https://rocketdock.com/images/screenshots/Mame-final-shadow.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" sfc_games_covers pack   big thanks to TEAM ZT for the packs "
+
+
+
+
+

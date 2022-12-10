@@ -1,0 +1,67 @@
+
+
+name="jogos e capas NES pacote 1- 850MB "   
+url="http://34.download.real-debrid.com/d/5BMQR4JIAW26W/Nes%20games%20covers.zip"
+img="http://icons.iconarchive.com/icons/ahuri/nes/256/Nes-Console-icon.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" jogos n64, incluindo a arte necessária, divirta-se e junte-se ao RetromaniacUS onde tudo é gratuito "
+
+name="Pacote de vídeo de jogabilidade NES 2GB "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/nes_gameplay.zip"
+img="http://icons.iconarchive.com/icons/ahuri/nes/256/Nes-Console-icon.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" jogos n64, incluindo a arte necessária, divirta-se e junte-se ao RetromaniacUS onde tudo é gratuito "
+
+name="jogos e capas snes pack 893mb "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/Snes_games_covers.zip"
+img="http://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/snes-icon.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" jogos n64, incluindo a arte necessária, divirta-se e junte-se ao RetromaniacUS onde tudo é gratuito "
+
+name="snes gameplay video's pack 1 1,7gb "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/Snes_gameplay_pack_01.zip"
+img="http://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/snes-icon.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" jogos n64, incluindo a arte necessária, divirta-se e junte-se ao RetromaniacUS onde tudo é gratuito "
+
+name="snes gameplay video's pack 2 1,7 gb "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/Snes_gameplay_pack_02.zip"
+img="http://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/128/snes-icon.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" jogos n64, incluindo a arte necessária, divirta-se e junte-se ao RetromaniacUS onde tudo é gratuito "
+
+name="N64 jogos e capas pack 1- 1,7GB "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/n64_games_covers_01.zip"
+img="http://icons.iconarchive.com/icons/sykonist/console/256/Nintendo-64-black-icon.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" jogos n64, incluindo a arte necessária, divirta-se e junte-se ao RetromaniacUS onde tudo é gratuito "
+
+name="N64 jogos e capas pack 2 1,8GB "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/n64_games_covers_02.zip"
+img="http://icons.iconarchive.com/icons/sykonist/console/256/Nintendo-64-black-icon.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" jogos n64, incluindo a arte necessária, divirta-se e junte-se ao RetromaniacUS onde tudo é gratuito "
+
+name="N64 gameplay de 1,3 GB "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/n64_gameplay_pack.zip"
+img="http://icons.iconarchive.com/icons/sykonist/console/256/Nintendo-64-black-icon.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" jogos n64, incluindo a arte necessária, divirta-se e junte-se ao RetromaniacUS onde tudo é gratuito "
+
+name="Famicom Disk System jogos e cobre 30MB "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/fds_games_covers.zip"
+img="https://2.bp.blogspot.com/-KW-XPUGUlfs/V2_Lbhs7INI/AAAAAAAAFFQ/QUi3qKc9zH0VQZod8voJCAKd0KmmeLhAgCLcB/s1600/NintendoFamicomDiskSystem_zpsfdf1203a.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" muito obrigado ao TEAM ZT pelos pacotes"
+
+name="Jogabilidade do Famicom Disk System 59MB "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/fds_gameplay.zip"
+img="https://2.bp.blogspot.com/-KW-XPUGUlfs/V2_Lbhs7INI/AAAAAAAAFFQ/QUi3qKc9zH0VQZod8voJCAKd0KmmeLhAgCLcB/s1600/NintendoFamicomDiskSystem_zpsfdf1203a.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" muito obrigado ao TEAM ZT pelos pacotes "
+
+name="Famicom Disk System arte adicional e arquivos nfo 34mb "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/fds_aditional_artwork_nfos.zip"
+img="https://2.bp.blogspot.com/-KW-XPUGUlfs/V2_Lbhs7INI/AAAAAAAAFFQ/QUi3qKc9zH0VQZod8voJCAKd0KmmeLhAgCLcB/s1600/NintendoFamicomDiskSystem_zpsfdf1203a.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" muito obrigado ao TEAM ZT pelos pacotes "

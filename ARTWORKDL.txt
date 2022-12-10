@@ -1,0 +1,30 @@
+
+name="sony Play station artwork package  3.8GB "   
+url="https://archive.org/download/handheldsartwork/SonyPsp.zip"
+img="http://findicons.com/files/icons/2145/private_stock/128/ps_playstation_logo.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" covers clearlogo's gameplayvideo's Big thnx to TEAM ZT for android users manual extracting is needed due to the file size (>2GB)"
+
+name="gamecube artwork package  3.4GB "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/gamecube_art_nfo.zip"
+img="http://findicons.com/files/icons/1786/oxygen_refit/128/gamecube.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" covers clearlogo's gameplayvideo's Big thnx to TEAM ZT for android users manual extracting is needed due to the file size (>2GB)"
+
+name="dreamcast artwork package  2.3GB  "   
+url="http://ns3066804.ip-213-251-184.eu/files/share/romflix/dreamcast_art_nfos.zip"
+img="http://findicons.com/files/icons/1784/isospective/128/comp_dreamcast.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" covers clearlogo's gameplayvideo's Big thnx to TEAM ZT for android users manual extracting is needed due to the file size (>2GB) "
+
+name="sony PsP artwork package  2.8GB "   
+url="https://archive.org/download/handheldsartwork/SonyPsp.zip"
+img="https://cdn.neow.in/forum/uploads/post-89143-1138709795.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" covers clearlogo's gameplayvideo's Big thnx to RetroManiacUS for android users manual extracting is needed due to the file size (>2GB)"
+
+name="wii ware artwork package  1.2GB "   
+url="https://archive.org/download/consoleartwork/Nintendo%20Wii.zip"
+img="http://cdn02.nintendo-europe.com/media/images/03_teaser_module_1_square/systems_2/wii_3/TM_WiiWare.png"
+fanart="http://img13.deviantart.net/6a89/i/2014/198/1/8/videogames_1__retrogames__by_sauron88-d6fzq3n.png"
+description=" covers clearlogo's gameplayvideo's Big thnx to RetroManiacUS for android users manual extracting is needed due to the file size (>2GB)"
